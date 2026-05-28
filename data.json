@@ -18,15 +18,15 @@
     "download_url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.7/NewPipe_v0.28.7.apk"
   },
   {
-    "name": "Aniyomi",
-    "version": "0.18.1.2",
-    "file_name": "Aniyomi-v0.18.1.2.apk",
-    "download_url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.1.2/Aniyomi-v0.18.1.2.apk"
+    "name": "SmartTube",
+    "version": "31.73",
+    "file_name": "SmartTube_stable_31.73_arm64-v8a.apk",
+    "download_url": "https://github.com/yuliskov/SmartTube/releases/download/31.73s/SmartTube_stable_31.73_arm64-v8a.apk"
   },
   {
-    "name": "Kodi (Nexus ARM64)",
-    "version": "20.5",
-    "file_name": "kodi-20.5-Nexus-arm64-v8a.apk",
-    "download_url": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-20.5-Nexus-arm64-v8a.apk"
+    "name": "Drama Live",
+    "version": "1.0.0",
+    "file_name": "dramalive.apk",
+    "download_url": "https://dramalive.app/download/direct"
   }
 ]
