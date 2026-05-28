@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CloudStream",
+    "version": "4.7.0",
+    "file_name": "4.7.0.apk",
+    "download_url": "https://github.com/recloudstream/cloudstream/releases/download/v4.7.0/4.7.0.apk"
+  },
+  {
+    "name": "OnStream (Android TV)",
+    "version": "1.1.0",
+    "file_name": "onstream-tv-1.1.0.apk",
+    "download_url": "https://onstreamapks.app/app/onstream-tv-1.1.0.apk"
+  },
+  {
+    "name": "NewPipe",
+    "version": "0.28.7",
+    "file_name": "NewPipe_v0.28.7.apk",
+    "download_url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.7/NewPipe_v0.28.7.apk"
+  },
+  {
+    "name": "Aniyomi",
+    "version": "0.18.1.2",
+    "file_name": "Aniyomi-v0.18.1.2.apk",
+    "download_url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.1.2/Aniyomi-v0.18.1.2.apk"
+  },
+  {
+    "name": "Kodi (Nexus ARM64)",
+    "version": "20.5",
+    "file_name": "kodi-20.5-Nexus-arm64-v8a.apk",
+    "download_url": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-20.5-Nexus-arm64-v8a.apk"
+  }
+]
