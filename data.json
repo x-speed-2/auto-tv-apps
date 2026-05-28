@@ -35,4 +35,10 @@
     "file_name": "cobalt-arm64.apk",
     "download_url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.2/cobalt-arm64.apk"
   },
+  {
+    "name": "YTV Player PRO (Player)",
+    "version": "14.0",
+    "file_name": "ytv-player.xapk",
+    "download_url": "https://files.catbox.moe/ser3go.xapk"
+  },
 ]
