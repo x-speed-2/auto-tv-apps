@@ -40,5 +40,12 @@
     "version": "14.0",
     "file_name": "ytv-player.xapk",
     "download_url": "https://files.catbox.moe/ser3go.xapk"
+  },
+  ,
+  {
+    "name": "Yassine TV (IPTV)",
+    "version": "3.0",
+    "file_name": "YacineTV_V3.apk",
+    "download_url": "https://yacenetv.com/YacineTV_V3.apk"
   }
 ]
