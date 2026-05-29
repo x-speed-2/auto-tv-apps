@@ -1,5 +1,11 @@
 [
   {
+    "name": "Update",
+    "version": "1.0.0",
+    "file_name": "app-release.apk",
+    "download_url": "http://tv.anas.to/app-release.apk"
+  },
+  {
     "name": "CloudStream (Movies) (Manual)",
     "version": "4.7.0",
     "file_name": "4.7.0.apk",
