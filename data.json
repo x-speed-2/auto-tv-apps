@@ -41,11 +41,16 @@
     "file_name": "ytv-player.xapk",
     "download_url": "https://files.catbox.moe/ser3go.xapk"
   },
-  ,
   {
     "name": "Yassine TV (IPTV)",
     "version": "3.0",
     "file_name": "YacineTV_V3.apk",
     "download_url": "https://yacenetv.com/YacineTV_V3.apk"
-  }
+  },
+  {
+    "name": "NuvioTV (Movies)",
+    "version": "0.6.21-beta",
+    "file_name": "app-full-arm64-v8a-release.apk",
+    "download_url": "https://github.com/NuvioMedia/NuvioTV/releases/download/0.6.21-beta/app-full-arm64-v8a-release.apk"
+  },
 ]
