@@ -64,5 +64,11 @@
     "version": "latest",
     "file_name": "app-arm64-v8a-release.apk",
     "download_url": "https://github.com/ayman708-UX/PlayTorrioTVKT/releases/latest/download/app-arm64-v8a-release.apk"
-  }
+  },
+  {
+    "name": "Send Files To TV (Tool)",
+    "version": "1.4.22",
+    "file_name": "sendfilestotv-1-4-22.apk",
+    "download_url": "https://files.catbox.moe/s63qki.apk"
+  },
 ]
