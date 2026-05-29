@@ -1,6 +1,6 @@
 [
   {
-    "name": "CloudStream (Movies)",
+    "name": "CloudStream (Movies) (Manual)",
     "version": "4.7.0",
     "file_name": "4.7.0.apk",
     "download_url": "https://github.com/recloudstream/cloudstream/releases/download/v4.7.0/4.7.0.apk"
@@ -24,7 +24,7 @@
     "download_url": "https://github.com/yuliskov/SmartTube/releases/download/31.73s/SmartTube_stable_31.73_arm64-v8a.apk"
   },
   {
-    "name": "Drama Live (IPTV)",
+    "name": "Drama Live (IPTV) (Manual)",
     "version": "1.0.0",
     "file_name": "dramalive.apk",
     "download_url": "https://dramalive.app/download/direct"
@@ -42,15 +42,21 @@
     "download_url": "https://files.catbox.moe/ser3go.xapk"
   },
   {
-    "name": "Yassine TV (IPTV)",
+    "name": "Yassine TV (IPTV) (Player Required)",
     "version": "3.0",
     "file_name": "YacineTV_V3.apk",
     "download_url": "https://yacenetv.com/YacineTV_V3.apk"
   },
   {
-    "name": "NuvioTV (Movies)",
+    "name": "NuvioTV (Movies) (Manual)",
     "version": "0.6.21-beta",
     "file_name": "app-full-arm64-v8a-release.apk",
     "download_url": "https://github.com/NuvioMedia/NuvioTV/releases/download/0.6.21-beta/app-full-arm64-v8a-release.apk"
+  },
+  {
+    "name": "PlayTorrio (Movies)",
+    "version": "latest",
+    "file_name": "app-arm64-v8a-release.apk",
+    "download_url": "https://github.com/ayman708-UX/PlayTorrioTVKT/releases/latest/download/app-arm64-v8a-release.apk"
   },
 ]
